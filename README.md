@@ -1,6 +1,6 @@
 # Random Theme Generator Plugin for Adobe Illustrator
 
-<center> ![paletizer](https://github.com/grzzlyb/randomthemes/assets/123747958/c4c224f5-dbab-403b-bdb1-d1581daf2ae1) </center>
+![paletizer](https://github.com/grzzlyb/randomthemes/assets/123747958/c4c224f5-dbab-403b-bdb1-d1581daf2ae1)
 
 This plugin is tailored for Adobe Illustrator, enabling seamless generation of diverse and aesthetic color palettes directly within your compositions. It provides multiple palette modes, enhancing your creative workflow.
 
